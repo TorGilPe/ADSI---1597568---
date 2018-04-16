@@ -1,0 +1,51 @@
+Primer algoritmo: Despertarce e ir al baño - español
+- Abro los ojos
+- Me siento en la cama
+- Cojo la linterna del nochero
+- Prendo la linterna
+- Alumbro el camino con la linterna hasta el baño
+- Me levanto de la cama
+- Camino hacia la puerta del baño
+- Abro la puerta del baño
+- Entro al baño
+- Prendo la luz del baño
+- Apago la luz de la linterna
+- Suelto la linterna en el tocador
+- Camino hasta el sanitario
+- Levanto la tapa del sanitario
+- Me bajo el pantalones y el bóxer
+- Me siento en el sanitario
+- Hago mi necesidad
+- Estiro la mano para coger el papel higiénico
+- Corto los cuadros que necesito
+- Me limpio
+- Boto el papel higiénico a la basura
+- Descargo el agua del sanitario
+- Me levanto del sanitario
+- Me subo el bóxer y el pantalón
+- Camino hasta el lavamanos
+- Abro la llave del lavamanos
+- Me juago las manos
+- Cierro la llave del lavamanos
+- Me hecho jabón líquido en las manos
+- Me estriego las manos
+- Abro la llave del lavamanos
+- Me enjuago el jabón de las manos
+- Cierro la llave del lavamanos
+- Cojo la toalla
+- Me seco las manos
+- Cuelgo la toalla
+- Cojo la linterna del tocador
+- Prendo la luz de la linterna
+- Apago la luz del baño
+- Alumbro el camino con la linterna hasta la puerta del baño
+- Camino hasta la puerta del baño
+- Salgo del baño
+- Cierro la puerta del baño
+- Alumbro con la linterna el camino hasta la cama
+- Me siento en la cama
+- Apago la linterna
+- Suelto la linterna en el nochero
+- Me acuesto en la cama
+- Cierro los ojos
+- Me quedo dormido

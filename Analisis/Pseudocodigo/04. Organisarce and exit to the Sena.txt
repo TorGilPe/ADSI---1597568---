@@ -1,0 +1,46 @@
+Cuarto algoritmo: Organisarce and exit to the Sena - english
+- I enter the bathroom 
+- I take off my clothes 
+- I enter the shower 
+- I open the shower key 
+- I rinse my body 
+- I close the shower key 
+- I take the shampoo 
+- I wash my hair 
+- I release the shampoo 
+- I take the soap 
+- I wash my body
+- I release the soap
+- I open the shower key
+- I rinse my body
+- I close the shower key
+- I take the towel
+- I dry my body
+- I hang the towel
+- I get out of the shower
+- I leave the bathroom to the room
+- Put on the boxer
+- Put on the pants
+- Put on the shirt
+- Put on the stockings
+- Put on the shoes
+- I go to the bathroom
+- I take the toothbrush
+- I give toothpaste to the toothbrush
+- I brush my teeth
+- Drop the toothbrush
+- I leave the bathroom
+- I take the bag
+- I leave the room
+- I walk to the garage
+- I grab my motorcycle keys from my pocket
+- I ride my motorcycle
+- I start the bike
+- Under the hill on the motorbike
+- I leave the farm to the street
+- Driving to the Sena of Cartago
+- I park the motorbike in the parking lot of the Sena
+- I turn off the motorcycle
+- Under the motorbike
+- Walk to the entrance of the Sena
+- I enter the Sena
