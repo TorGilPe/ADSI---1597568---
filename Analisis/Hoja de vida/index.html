@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>Hoja de Vida: Victor A Gil</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="headed">
+	<img src="img/fotoperfil.jpg" class="image">
+	<h2>VICTOR ANDRES GIL PEÑUELA</h2>
+</div>
+<div class="count">
+<div class="info1">
+	<h1>Personal information</h1>
+	<p>
+		<strong>Birthdate:</strong> 07 de Julio de 1992<br>
+		<strong>Email:</strong> viangipe@gmail.com<br>
+		<strong>Address:</strong> Way 25 06 kilometer 44 + 600<br>
+		<strong>Cell phone:</strong> 316 562 8838<br>
+		<strong>Cali, Colombia</strong><br>
+		<strong>C.C No:</strong> 1.114.210.814<br>
+		<strong>Military card No:</strong> 92.070.779.147
+	</p>
+
+	<h1>Professional profile</h1>
+	<div class="txtbox">
+	<p>
+		I am a Labor Technician in Multimedia Programming. I have knowledge in 2D and 3D editing and design programs such as Photoshop, Illustrator, Audition, Premier pro and Corel, I also have knowledge of HTML5, CSS and JavaScript
+	</p>
+	</div>
+</div>
+<div class="info2">
+	<h1>Personal references</h1>
+	<ul>
+		<li>German Arturo Gil, Retired from the Valley liquor industry.<br>
+		<strong>Cell phone:</strong>315 883 5959
+		</li>
+		<li>Paola Andrea Gaviria, Manager of Chemicals and Capsula Ltda.<br>
+		<strong>Cell phone:</strong>310 321 9922
+		</li>
+		<li>
+			Jose Luis Gonsalez, Student of the Sena<br>
+			<strong>Cell phone:</strong>316 530 5948
+		</li>
+		<li>
+			Cristian Camilo Cadavid, Student of the Sena<br>
+			<strong>Cell phone:</strong>313 548 9525
+		</li>
+	</ul>
+	<h1>Laboral references</h1>
+	<ul>
+		<li>
+			<strong>Compani:</strong>Enter puess<br>
+			<strong>Cell phone:</strong>320 760 6274
+		</li>
+		<li>
+		<strong>Compani:</strong>Coca-cola<br>
+		<strong>Cell phone:</strong>321 584 9658
+		</li>
+	</ul>
+</div>
+
+</div>
+<div class="foot">
+	<script src="js/myjs.js"></script>
+	<h2 id="h2">The date and time are:</h2>
+  	<div id="fecha"></div>
+  	<script type="text/javascript">
+  		function escapeHtml(text) {
+                'use strict';
+                return text.replace(/[\"&<>]/g, function (a) {
+                    return {'"': '&quot;', '&': '&amp;', '<': '&lt;', '>': '&gt;'}[a];
+                });
+            }
+            var fecha = new Date();
+                       
+            document.getElementById("fecha").innerHTML = fecha;
+
+            document.getElementById("p1").innerHTML = document.getElementById("p1").innerHTML + "<br><div class=\"codigo\">document.getElementById(\"h2\").innerHTML = <b>[" + document.getElementById("h2").innerHTML + "] </b></div>";
+            document.getElementById("p2").innerHTML = document.getElementById("p2").innerHTML + "<br><div class=\"codigo\">escapeHtml(document.getElementById(\"h1\").outerHTML) = <b>[" + escapeHtml(document.getElementById("h1").outerHTML) + "] </b></div>";
+            
+  	</script>
+</div>
+</body>
+</html>

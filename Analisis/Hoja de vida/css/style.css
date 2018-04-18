@@ -1,0 +1,62 @@
+
+.headed{
+	background-image: url(../img/madera.jpg);
+	color: white;
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.info1{ 
+	background-color: #D7D7D7;
+	border-right: #D32500 2px solid;
+	flex-grow: 1;
+}
+.info2{
+	background-color: #D7D7D7;
+	flex-grow: 3;
+}
+.count{
+	display: flex;
+	flex-direction: row;
+	height: 50vh;
+}
+
+.info1, .info2{
+	
+	padding: 2rem;
+}
+.image{
+	border-radius: 50%;
+
+	border:gold 4px solid;
+}
+.txtbox{
+	width: 35rem;
+}
+body{
+	margin: 0px;
+	font-size: 0.8rem;
+	display: flex;
+	flex-direction: column;
+}
+h1{
+	margin: 0;
+	color: #D32500;
+	font-size: 1.5rem;
+}
+.foot{
+	height: 20vh;
+	color: darkblue;
+	padding: 0.5rem;
+	margin: 0;
+}
+@media (max-width: 767.98px){
+	.count {
+		flex-direction: column;
+	}
+	.info1 {
+		border-right: 0px;
+	}
+}
